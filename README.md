@@ -1,6 +1,7 @@
 # Task
 
-A description of this package.
+### bazel
+* bazel build //:Task
 
 ### SPM
 * swift build
